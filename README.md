@@ -42,6 +42,7 @@ or follow SHAPEAI on:
 
 href=
 
-"https://www.youtube.com/channel/UCTUvDLTW9meuDXWcbmISPdA">YouTu
+"https://www.youtube.com/channel/UCTUvDLTW9meuDXWcbmISPdA">YouTube</a>
+<li><a href=
 
-be</a>
+"https://github.com/shapeai">GitHub</a>
