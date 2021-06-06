@@ -1,4 +1,4 @@
-# ShapeAI_Python_machine_Learning 
+# SHAPEAI_PYTHON_MACHINE_LEARNING
 
 Hi I made this project during the 7 Days Free Bootcamp, conducted by <b> SHAPEAI
 
@@ -38,11 +38,10 @@ or follow SHAPEAI on:
 
 "https://www.instagram.com/shape.ai/?hl=en">Instagram</a>
 
-<li><a
-
-href=
+<li><a href=
 
 "https://www.youtube.com/channel/UCTUvDLTW9meuDXWcbmISPdA">YouTube</a>
+
 <li><a href=
 
 "https://github.com/shapeai">GitHub</a>
